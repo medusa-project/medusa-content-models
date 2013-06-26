@@ -28,8 +28,8 @@
                     <dsTypeModel ID="RELS-EXT" >
                         <form FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" MIME="application/rdf+xml"></form>
                     </dsTypeModel>
-                    <dsTypeModel ID="PREMIS-AGENT" >
-                        <form FORMAT_URI="http://multimedialab.elis.ugent.be/users/samcoppe/ontologies/Premis/premis.owl#Agent" MIME="text/xml"></form>
+                    <dsTypeModel ID="Premis-Agent" >
+                        <form FORMAT_URI="http://www.loc.gov/premis/rdf/v1#Agent" MIME="text/xml"></form>
                     </dsTypeModel>
                 </dsCompositeModel>
             </foxml:xmlContent>
